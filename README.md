@@ -104,22 +104,28 @@ Computed:
 ### 1. Distribution Analysis
 
 * Units Sold distribution
+<img width="1286" height="450" alt="Image" src="https://github.com/user-attachments/assets/7829bb3d-b80a-4554-9131-ab878bd7821e" />
 * Unit Price distribution
+<img width="1286" height="450" alt="Image" src="https://github.com/user-attachments/assets/3ddc4e50-1f37-4108-8b17-f1ef1185a0f5" />
 * Total Revenue distribution
+<img width="1286" height="450" alt="Image" src="https://github.com/user-attachments/assets/01d2c015-ed65-4b11-a9d2-3b9550eb2bd6" />
 
 ### 2. Revenue Analysis
 
 * Revenue by Product Category
+<img width="1286" height="450" alt="Image" src="https://github.com/user-attachments/assets/72b2b5d0-6590-46dd-bb85-25a670ab864c" />
 * Revenue trend by Month and Year
+<img width="1286" height="450" alt="Image" src="https://github.com/user-attachments/assets/494fc5c7-af3a-41b5-a54f-248029eb4e80" />
 * Revenue by Region
+<img width="1286" height="450" alt="Image" src="https://github.com/user-attachments/assets/383e4256-3870-4c7f-8145-bfca2e4711a5" />
 
 ### 3. Payment Method Analysis
 
-* Payment method distribution by:
-
+* Payment method distribution by (Interactive toggle between views):
   * Product Category
+<img width="1286" height="450" alt="Image" src="https://github.com/user-attachments/assets/6ac63624-04ae-4e70-b7ae-300640ba0d9f" />
   * Region
-* Interactive toggle between views
+<img width="1286" height="450" alt="Image" src="https://github.com/user-attachments/assets/d1347af8-2c08-492a-b577-3fab944cf12c" />
 
 ---
 
